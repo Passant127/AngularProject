@@ -1,0 +1,32 @@
+.home{
+    background-color:#1abc9c ;
+    padding: 80px;
+    
+}
+.line{
+    border: 3px solid white;
+    width: 15%;
+    height: 0;
+    border-radius: 10px;
+    margin: 5px 15px;
+}
+.staricon{
+
+    font-size: 30px;
+  
+}
+.custom {
+    margin: 2rem 0 1.3rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.homeimg{
+    width: 20%;
+   
+}
+.homeimg img{
+    margin-top: 60px;
+}

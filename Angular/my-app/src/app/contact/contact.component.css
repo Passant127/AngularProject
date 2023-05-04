@@ -1,0 +1,47 @@
+input.form-control:focus {
+    box-shadow: none;
+}
+
+label {
+    margin-bottom: 7px;
+    transition: .6s top;
+}
+
+.__top {
+    top: 40px !important;
+}
+
+textarea {
+
+    position: relative;
+    z-index: 1;
+    padding-right: 0;
+    padding-left: 0;
+    resize: none;
+    border: none;
+    border-radius: 0;
+    background: none;
+    box-shadow: none !important;
+}
+.send{
+    background-color:#1abc9c ;
+}
+.line{
+    border: 3px solid #2c3e50;
+    width: 15%;
+    height: 0;
+    border-radius: 10px;
+    margin: 5px 15px;
+}
+.staricon{
+   color: #2c3e50;
+   font-size: 30px;
+  
+}
+.custom {
+    margin: 2rem 0 1.3rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
